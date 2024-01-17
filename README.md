@@ -15,6 +15,6 @@
 
 </div><br/>
 
- Minha paixão está na criação de soluções utilizando HTML, CSS, JavaScript e no desenvolvimento de aplicações web na plataforma OutSystems. 
+ Minha paixão está na criação de soluções utilizando HTML, CSS, JavaScript e no desenvolvimento de aplicações web pela plataforma OutSystems. 
  
  Minha abordagem é pautada pela constante busca por conhecimento e desafios.
